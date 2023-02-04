@@ -294,6 +294,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ARPG_Bossfight",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "451731683"
